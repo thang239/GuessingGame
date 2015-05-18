@@ -1,0 +1,11 @@
+body {
+	height: 100%;
+	background-color: #F7D358;
+	text-align: center;
+}
+.btn-xlarge {
+    padding: 18px 28px;
+    font-size: 22px;
+    line-height: normal;
+    border-radius: 8px;
+    }
