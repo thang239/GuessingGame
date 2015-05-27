@@ -9,3 +9,41 @@ body {
     line-height: normal;
     border-radius: 8px;
     }
+#inputText {
+	border-radius: 10px;
+	text-align:center;
+}
+#guessBtn {
+    border-radius: 10px;
+}
+
+#restartBtn {
+    border-radius: 10px;
+}
+
+#hintBtn {
+    border-radius: 10px;
+}
+
+.response {
+	font-size: 22px;
+    line-height: normal;
+}
+.guess{
+	position:absolute;
+	right:0;
+	left:0;
+	text-align: center;
+
+}
+
+.circle {
+    border-radius: 50px;
+	height: 60px;
+    width: 60px;
+    padding:8px;
+    background-color: #FF9C5B;
+    display: inline-block;
+    float: ;
+    text-align: center;	
+}
